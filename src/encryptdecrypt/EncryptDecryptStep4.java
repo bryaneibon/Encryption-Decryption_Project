@@ -4,7 +4,6 @@ package encryptdecrypt;
 public class EncryptDecryptStep4 {
     public static void main(String[] args) {
         userChoice(args);
-        //System.out.println(Arrays.toString(args));
     }
 
     private static void userChoice(String [] array){
